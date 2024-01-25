@@ -1,2 +1,1 @@
-# cpp_challenges
-Modern C++ Challenges
+# Modern C++ Challenges
