@@ -1,1 +1,1 @@
-# Modern C++ Challenges
+# Modern C Challenges
